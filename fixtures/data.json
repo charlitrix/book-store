@@ -1,0 +1,82 @@
+[
+  {
+    "model": "authtoken.token",
+    "pk": "7d83534acb5f48beb13572db48a09aa518c9a445",
+    "fields": { "user": 1, "created": "2023-04-23T04:27:27.222Z" }
+  },
+  {
+    "model": "auth.group",
+    "pk": 1,
+    "fields": { "name": "Administrator", "permissions": [] }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$320000$B2g2773C7JWmCQ7Fuy6BEr$3R5EHPiHDcVYQ04UV3QPuPnf5rCz6I0hmP+FOcQQUVI=",
+      "last_login": null,
+      "is_superuser": true,
+      "username": "c.olet",
+      "first_name": "Olet",
+      "last_name": "Charles",
+      "email": "charlitrix1@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-04-23T04:27:26.840Z",
+      "groups": [1],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "A Court of Mist and Fury",
+      "image": "book-image-1682287528.391506.jpg",
+      "description": "Feyre has undergone more trials than one human woman can carry in her heart. Though she's now been granted the powers and lifespan of the High Fae, she is haunted by her time Under the Mountain and the terrible deeds she performed to save the lives of Tamlin and his people",
+      "price": 70000,
+      "publish_date": "2020-05-11",
+      "publisher": "Bloomsbury",
+      "author_name": "Sarah J. Maas"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "The Cruel Prince",
+      "image": "book-image-1682307838.428643.jpg",
+      "description": "Jude was seven when her parents were murdered and she and her two sisters were stolen away to live in the treacherous High Court of Faerie. Ten years later, Jude wants nothing more than to belong there, despite her mortality. But many of the fey despise humans. Especially Prince Cardan, the youngest and wickedest son of the High King.",
+      "price": 120000,
+      "publish_date": "2021-05-11",
+      "publisher": "Hot Key",
+      "author_name": "Holly Black"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "The Darkest Part of the Forest",
+      "image": "book-image-1682308134.748679.jpg",
+      "description": "Jude was seven when her parents were murdered and she and her two sisters were stolen away to live in the treacherous High Court of Faerie. Ten years later, Jude wants nothing more than to belong there, despite her mortality. But many of the fey despise humans. Especially Prince Cardan, the youngest and wickedest son of the High King.",
+      "price": 75000,
+      "publish_date": "2016-01-05",
+      "publisher": "Little, Brown and Company",
+      "author_name": ""
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Becoming: Now a Major Netflix Documentary",
+      "image": "book-image-1682815540.436514.jpg",
+      "description": "In a life filled with meaning and accomplishment, Michelle Obama has emerged as one of the most iconic and compelling women of our era.\r\n\r\nAs First Lady of the United States of America – the first African-American to serve in that role – she helped create the most welcoming and inclusive White House in history, while also establishing herself as a powerful advocate for women and girls in the U.S. and around the world. She dramatically changed the ways that families pursue healthier and more active lives, and stood with her husband as he led America through some of its most harrowing moments. Along the way, she showed us a few dance moves, crushed Carpool Karaoke, and raised two down-to-earth daughters under an unforgiving media glare.",
+      "price": 120000,
+      "publish_date": "2018-12-19",
+      "publisher": "Penguin Books Ltd",
+      "author_name": "Michelle Obama"
+    }
+  }
+]

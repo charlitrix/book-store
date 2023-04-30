@@ -1,0 +1,1 @@
+default_app_config = "book_store.apps.customers.apps.CustomersConfig"
