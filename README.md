@@ -19,11 +19,6 @@ Book Store is the front end of the Book Store Application for customers to view 
 Username: `c.olet`  
 Password: `123`
 
-### Sample Customer
-
-Username: `sam@gmail.com`  
-Password: `123`
-
 ## Running Application
 
 First install node modules
