@@ -9,6 +9,10 @@ Book Store is the front end of the Book Store Application for customers to view 
 - Axios (For API requests)
 - Local Storage (For data persistence)
 
+## Application Tour
+
+[Check out video here ](https://youtu.be/VZa_RDf-40o)
+
 ## Access Urls
 
 - `http://localhost:3000/`: for the customer side.
