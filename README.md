@@ -9,6 +9,9 @@ Book Store is the front end of the Book Store Application for customers to view 
 - Axios (For API requests)
 - Local Storage (For data persistence)
 
+## Docker Version
+[Find it here](https://hub.docker.com/r/charlitrix/book-store-api)
+
 ## Application Tour
 
 [Check out video here ](https://youtu.be/VZa_RDf-40o)
