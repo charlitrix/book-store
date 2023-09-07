@@ -8,6 +8,9 @@ This is the backend of te book store application handling data storage and acces
 - Django RestFramework (RESTFUL API access within app)
 - Django Cor Headers (For handling CORS)
 
+## Docker Version
+[Find it here](https://hub.docker.com/r/charlitrix/book-store-api)
+
 ## Installing Requirements
 
 ```sh
